@@ -1,2 +1,2 @@
 # Mirantis
-Repository for various Mirantis intgegrations
+Repository for various Mirantis integrations
